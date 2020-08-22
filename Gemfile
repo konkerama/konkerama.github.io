@@ -1,2 +1,2 @@
-gem "github-pages"
-gem "jekyll-theme-minimal", "~> 3.9.0"
+#gem "github-pages"
+gem "jekyll-theme-minimal", "~> 0.1.1"
