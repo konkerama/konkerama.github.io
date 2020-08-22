@@ -11,6 +11,10 @@ kramdown:
 
 theme: jekyll-theme-minimal 
 title: Konstantinos Keramaris
-description: etyurtyurt
+description: | 
+        etyurtyurt
+        Hello
+        Worlds
+        asdf
 logo: konstantinos-keramaris.jpg
 
